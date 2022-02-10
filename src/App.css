@@ -1,0 +1,7 @@
+.row{
+    width:100%;
+    margin:auto;
+}
+.row>h5{
+    margin-left:30px;
+}
